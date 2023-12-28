@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/066a2d88-0e98-43d1-a1c5-1e98db2b0bde/resourceGroups/AzVoiceGPT_group/providers/Microsoft.Web/sites/AzVoiceGPT",
+    "appService.deploySubpath": "."
+}
